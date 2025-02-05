@@ -1,1 +1,5 @@
 # RCNN-StopSign-Classification
+
+EN: RCNN-StopSign-Detection is an object detection project that utilizes R-CNN to identify and localize stop signs in images or real-time video feeds. The model is trained to detect stop signs with high accuracy, leveraging deep learning techniques for feature extraction and classification. This project demonstrates the application of Region-Based CNNs in traffic sign recognition, which can be useful for autonomous vehicles, traffic monitoring, and intelligent transportation systems.
+
+ID: RCNN-StopSign-Detection adalah proyek deteksi objek yang menggunakan R-CNN untuk mengidentifikasi dan menentukan lokasi rambu berhenti (Stop Sign) dalam gambar atau video secara real-time. Model ini dilatih untuk mendeteksi rambu dengan akurasi tinggi, memanfaatkan teknik deep learning untuk ekstraksi fitur dan klasifikasi. Proyek ini menunjukkan penerapan Region-Based CNN dalam pengenalan rambu lalu lintas, yang dapat berguna untuk kendaraan otonom, pemantauan lalu lintas, dan sistem transportasi cerdas.
